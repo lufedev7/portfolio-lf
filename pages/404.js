@@ -1,5 +1,5 @@
 import Layout from "../components/layout";
-import Link from "next/Link";
+import Link from "next/link";
 const custom404 =() =>(
     <Layout>
         <div className="text-center">
